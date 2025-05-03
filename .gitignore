@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Results that should not be pushed
+key_reasoning_results_v2.csv
+comparison_results_v2.csv
+reasoning_comparison.png
+key_reasoning_analysis.py
+
+# Other files to exclude
+results_AIME2023_I.csv
+results_AIME2023_II.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/ 
